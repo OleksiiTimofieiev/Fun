@@ -1,0 +1,1 @@
+1. I should create an example of creating arrays of pointers to member functions
